@@ -42,14 +42,20 @@ The most popular days are Wednesdays and Thursdays. We suspected that this may b
 
 We see spikes in August and October, both warmer weather months. August’s spike may be attributed to the school year starting, with schools being back in sessions and college students moving in to the many universities in the district.
 
-4. 2018 Violations by State
+5. 2018 Violations by State
 
 ![Violations by State](https://github.com/MimiB2010/TeamMiriamProject1/blob/master/Output/TopDMV.png)
 
 State plates that showed DC, MD, & VA had the largest number of violations, which is to be expected.
 Vehicles with Maryland plates had the largest number of violations, with DC second and you Virginia third.
 
-5. Violations by State Plate - Not in DMV
+6. DMV Violations by State Plate - Heat Map
+
+![DMV Violations Heat Map](https://github.com/MimiB2010/TeamMiriamProject1/blob/master/Output/dmv_plates_heatmap_18.png)
+
+With DC, Maryland & Virginia being the largest offenders, we wanted to see where the majority of tickets were being given for these states. Similar to the 2018 Heat Map, most of the 'hot spots' are Downtown, H Street Corridor, etc.; however, we did see many tickets given around the border between DC & MD. We think this is a good portion of the violations that make up the Maryland state plate violation count. 
+
+7. Violations by State Plate - Not in DMV
 
 ![Violations by State Plate - Not in DMV](https://github.com/MimiB2010/TeamMiriamProject1/blob/master/Output/Top10DMV.png)
 
@@ -57,7 +63,7 @@ Even though DC, MD, & VA had the largest number of violations, we wanted to know
 Pennsylvania plates had the largest number of violations followed by Florida.
 California plates were the last group in the top 10; however, with the distance between CA & DC being so large, we expected the number of violations for CA to be lower. We discussed that the tickets to TX and CA plates could be going to people moving into the area for jobs, knowing that both of those states have robust job markets.
 
-6. Trend by year
+8. Trend by year
 
 ![Trend by year](https://github.com/MimiB2010/TeamMiriamProject1/blob/master/Output/Five%20Year%20trend%20by%20Month.png)
 
@@ -65,13 +71,13 @@ The graph showed a general decrease in the number of tickets issued with excepti
 
 The downward trend in parking violations is consistent with [an article](https://wtop.com/dc-transit/2019/02/d-c-parking-ticket-revenue-declining/) we found on Washington’s Top news that showed parking ticket and towing revenue has been on decline for about a decade. 
 
-7. Sample month to month comparisons
+9. Sample month to month comparisons
 
 ![Sample month to month comparisons](https://github.com/MimiB2010/TeamMiriamProject1/blob/master/Output/MOM%20Total%20Tcikets.png)
 
 The sample months comparison was consistent with the general trend we saw in the five year graph. There was a spike in ticket issued in 2016 for the months we sampled.
 
-8. 2018 Parking violation by type
+10. 2018 Parking violation by type
 
 ![2018 Parking violation by type](https://github.com/MimiB2010/TeamMiriamProject1/blob/master/Output/2018%20Violation_Type.png)
 
