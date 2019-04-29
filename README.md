@@ -1,6 +1,6 @@
 # Analysis of Parking Tickets in Washington, DC
 
-Our team was interested in getting an insight to parking tickets issued in the District due to personal experiences with Parking. We used parking violation five years' (2014 to 2018) data from OpenData.DC.gov to visualy represent the trends and information we were able to extract from the data. 
+Our team was interested in getting an insight to parking tickets issued in the District due to personal experiences with Parking. We used  five years' parking violation data (2014 to 2018) from OpenData.DC.gov to visualy represent the trends and information we were able to extract from the data. 
 
 Questions:
 Where do parking violations occur in the District?
@@ -26,7 +26,7 @@ More zoomed in heatmap of downtown that shows specific ‘hot spots’ like the 
 
 2. 2018 Parking Trends by Hour of Day
 
-![tickets by hour of day](https://github.com/MimiB2010/TeamMiriamProject1/blob/master/Output/tickets_by_hour.png)
+![tickets by hour of day](https://github.com/MimiB2010/TeamMiriamProject1/blob/master/Output/tickets_by_hour_18.png)
 
 This graph does not include around 20% of the data which does not have a valid timestamp. In comparing with data from Fiscal Year 2017, there was something that changed in the data collection process which caused a much higher percentage of values without a valid time stamp. We recognized the issue when the chart showed a peak between midnight and 1AM which did not make sense. Because we were missing data points from 2 AM to 10 AM, we chose to represent the data from 10AM until 2 AM.
 
